@@ -1,0 +1,2 @@
+# Mental-Disorders-Detection-via-Online-Social-Media-Mining-
+The main purpose of this application is to detect the mental disorders present in a person who is prone to social networking sites. This application can be accessed by the registered users and the administrator; who can check the behavior of each individual using social networking apps. It provides us social media application gateway. By this, health care and mental department will be able to distinguish rate of mental disorders easily
